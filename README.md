@@ -1,4 +1,4 @@
-# **Jarvis**  
+# **Jarvis** 
 **Jarvis** é um assistente virtual em Python, desenvolvido para facilitar a interação por voz com o usuário. Ele pode realizar diversas tarefas, como consulta de informações sobre o tempo, hora, data, execução de comandos no sistema e muito mais, tudo por meio de comandos de voz.  
 
 ## **Requisitos**  
@@ -51,8 +51,8 @@ A partir daí, você poderá interagir com o Jarvis por meio de comandos de voz.
 3. **Armazenamento de Dados**: Embora não armazene grandes quantidades de dados, o Jarvis mantém algumas informações temporárias, como o histórico de comandos realizados ou o estado do sistema.
 
 ## **Comandos Suportados**  
-- **Hora**: "hora?", "horas?".
-- **Data**: "data?", "dia?".
+- **Hora**: "Qual a hora?", "Que horas são?".
+- **Data**: "Qual a data de hoje?", "Que dia é hoje?".
 - **Clima**: "Qual a previsão do tempo?", "previsão?".
 - **Abrir aplicativos**: "Abra o Google Chrome", "Abra o Spotify".
 - **Tocar música**: "Toque [artista/banda]", "Tocar [nome da música] no YouTube".

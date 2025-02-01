@@ -19,7 +19,7 @@ pip install -r requirements.txt
 - **speechrecognition**: Para reconhecimento de fala.
 - **requests**: Para realizar requisições HTTP.
 - **pywhatkit**: Para tocar músicas no YouTube.
-- **sympy**: Para realizar expressões algébricas
+- **sympy**: Para realizar expressões algébricas.
 - **wikipedia**: Para realizar pesquisas na Wikipedia.
 
 ## **Estrutura dos Arquivos**  
